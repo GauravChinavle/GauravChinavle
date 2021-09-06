@@ -40,8 +40,12 @@
 <br />
 <br />
 ---
+
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravChinavle)](https://github.com/GauravChinavle/github-readme-stats)
+
 ---
+
+
 [website]: http:gauravchinavle.dev
 [twitter]: https://twitter.com/gauravchinavle
 [instagram]: https://instagram.com/gauravchinavle
