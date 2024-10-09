@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute to 3 Open Source projects
+- 🥅 2024 Goals: Contribute to 3 Open Source projects
 - ⚡ Fun fact: I love to dance and try new gadgets
 
 ### Connect with me:
