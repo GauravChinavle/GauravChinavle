@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=gauravchinavle.dev&style=for-the-badge&url=https%3A%2F%2Fgauravchinavle.dev)](https://gauravchinavle.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gauravchinavle?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=gauravchinavle)
-[![LinkedIn Follow](https://img.shields.io/linkedin/follow/gauravchinawale?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=gauravchinavle)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravchinawale/)
 
 [![An image of @gauravchinavle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravchinavle)](https://holopin.io/@gauravchinavle)
 
