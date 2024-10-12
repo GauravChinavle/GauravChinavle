@@ -50,3 +50,5 @@
 [twitter]: https://twitter.com/gauravchinavle
 [instagram]: https://instagram.com/gauravchinavle
 [linkedin]: https://linkedin.com/in/gauravchinavle
+
+[![An image of @gauravchinavle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravchinavle)](https://holopin.io/@gauravchinavle)
